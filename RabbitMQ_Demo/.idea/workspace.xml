@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580e49eb-8590-4ca7-b488-5db8bfb71a3d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo02/topic_send-Demo02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemFileNotDlete/Lib/site-packages/pika/adapters/blocking_connection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="1574" column="8" selection-start-line="1574" selection-start-column="8" selection-end-line="1574" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo02/topic_receive-Demo02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="17" selection-end-line="43" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/rpc_send.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="23" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <element signature="e#2#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/rpc_receive_subscribe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="15" selection-start-line="13" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq笔记">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirement">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo01/topic_receive_subscribe02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sends.py" />
+        <option value="$PROJECT_DIR$/receive01.py" />
+        <option value="$PROJECT_DIR$/receive_persistence.py" />
+        <option value="$PROJECT_DIR$/发布_订阅/receive01.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/send_publisher.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/receive_subscribe.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_receive_subscribe.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_send.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/direct_exchange/direct_send.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/direct_exchange/direct_receive_subscribe02.py" />
+        <option value="$PROJECT_DIR$/队列基本使用/sends.py" />
+        <option value="$PROJECT_DIR$/队列基本使用/receive01.py" />
+        <option value="$PROJECT_DIR$/消息持久化/send_persistence.py" />
+        <option value="$PROJECT_DIR$/消息持久化/receive_persistence.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_exchange/fanout_receive_subscribe.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_exchange/fanout_send.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/direct_exchange/direct_receive_subscribe.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/direct_receive_subscribe02.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/rpc_receive_subscribe.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/rpc_send.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/topic_send.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/topic_receive_subscribe02.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/topic_receive-Demo02.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/topic_send-Demo02.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo01/topic_send.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo02/topic_receive-Demo02.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_server.py" />
+        <option value="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_client.py" />
+        <option value="$PROJECT_DIR$/rabbitmq笔记" />
+        <option value="$PROJECT_DIR$/requirement" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-11" />
+    <option name="width" value="1300" />
+    <option name="height" value="740" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RabbitMQ_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ_Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/发布_订阅_广播，一对多" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多\topic_exchange\Demo02" />
+      <recent name="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多\topic_exchange" />
+      <recent name="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多\topic_exchange\Demo01" />
+      <recent name="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多\fanout_exchange" />
+      <recent name="E:\PurePython__Project\RabbitMQ_Demo\消息持久化" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rpc_client">
+    <configuration name="receive01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RabbitMQ_Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/队列基本使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/队列基本使用/receive01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rpc_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RabbitMQ_Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rpc_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RabbitMQ_Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topic_receive-Demo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RabbitMQ_Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多\topic_exchange\Demo02\topic_receive-Demo02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topic_send-Demo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RabbitMQ_Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\PurePython__Project\RabbitMQ_Demo\发布_订阅_广播，一对多\topic_exchange\Demo02\topic_send-Demo02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rpc_client" />
+        <item itemvalue="Python.rpc_server" />
+        <item itemvalue="Python.topic_send-Demo02" />
+        <item itemvalue="Python.topic_receive-Demo02" />
+        <item itemvalue="Python.receive01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580e49eb-8590-4ca7-b488-5db8bfb71a3d" name="Default Changelist" comment="" />
+      <created>1561896355874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561896355874</updated>
+      <workItem from="1561896363683" duration="1742000" />
+      <workItem from="1561940064369" duration="21680000" />
+      <workItem from="1562031629873" duration="13104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36526000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19770774" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6077886" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991655" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.04172462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$receive01.coverage" NAME="receive01 Coverage Results" MODIFIED="1562038273129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/队列基本使用" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$rpc_send.coverage" NAME="rpc_send Coverage Results" MODIFIED="1561980369790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$topic_receive_Demo02.coverage" NAME="topic_receive-Demo02 Coverage Results" MODIFIED="1562047236241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$fanout_receive_subscribe02.coverage" NAME="fanout_receive_subscribe02 Coverage Results" MODIFIED="1561958153969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$sends.coverage" NAME="sends Coverage Results" MODIFIED="1561944848201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$rpc_server.coverage" NAME="rpc_server Coverage Results" MODIFIED="1562050090947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$receive_persistence.coverage" NAME="receive_persistence Coverage Results" MODIFIED="1561955580164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/消息持久化" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$fanout_receive_subscribe.coverage" NAME="fanout_receive_subscribe Coverage Results" MODIFIED="1561958146238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$receive01__1_.coverage" NAME="receive01 (1) Coverage Results" MODIFIED="1561950046445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$send_persistence.coverage" NAME="send_persistence Coverage Results" MODIFIED="1561955216647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/消息持久化" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$rpc_receive_subscribe.coverage" NAME="rpc_receive_subscribe Coverage Results" MODIFIED="1561979789579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$fanout_send.coverage" NAME="fanout_send Coverage Results" MODIFIED="1561958150103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$topic_send_Demo02.coverage" NAME="topic_send-Demo02 Coverage Results" MODIFIED="1562047242881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange" />
+    <SUITE FILE_PATH="coverage/RabbitMQ_Demo$rpc_client.coverage" NAME="rpc_client Coverage Results" MODIFIED="1562050184833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/SystemFileNotDlete/pythonAllVersion/python-3.5.2/Lib/site-packages/kombu/transport/SQS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="197" column="60" lean-forward="true" selection-start-line="197" selection-start-column="60" selection-end-line="197" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/direct_exchange/direct_receive_subscribe02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_exchange/fanout_receive_subscribe02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/队列基本使用/sends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/消息持久化/send_persistence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" selection-start-line="1" selection-end-line="39" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/队列基本使用/receive01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#27#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_exchange/fanout_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/fanout_exchange/fanout_receive_subscribe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/direct_exchange/direct_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="1" selection-end-line="28" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/direct_exchange/direct_receive_subscribe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/rpc_receive_subscribe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" column="89" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/direct_receive_subscribe02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SystemFileNotDlete/Lib/site-packages/pika/channel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="628" column="38" selection-start-line="628" selection-start-column="25" selection-end-line="628" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemFileNotDlete/Lib/site-packages/pika/adapters/twisted_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="528" column="8" selection-start-line="528" selection-start-column="8" selection-end-line="528" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/消息持久化/receive_persistence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="12" selection-start-line="5" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo01/topic_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo01/topic_receive_subscribe02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo02/topic_send-Demo02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/topic_exchange/Demo02/topic_receive-Demo02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/rpc_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="23" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemFileNotDlete/Lib/site-packages/pika/adapters/blocking_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1574" column="8" selection-start-line="1574" selection-start-column="8" selection-end-line="1574" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/rpc_receive_subscribe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="15" selection-start-line="13" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布_订阅_广播，一对多/RPC/Demo02/rpc_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
